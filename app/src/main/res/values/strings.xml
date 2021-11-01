@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Epoxy</string>
+    <string name="cash_flow">Cash Flow</string>
+    <string name="am_i_speding_less_than_i_make">Am I speding less than I make?</string>
+    <string name="show_details">Show Details</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="card">Card</string>
+    <string name="budget">Budget</string>
+</resources>
